@@ -1,0 +1,5 @@
+{
+	// enter path to your sabre binary here
+	// output of "which sabre" is the value you want
+	"path_to_sabre": "[INSERT PATH TO YOUR SABRE BINARY HERE]"
+}
